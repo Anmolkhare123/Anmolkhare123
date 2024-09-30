@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d045cf6055134c38886f3faf6ec950c9/artifacts
+end_time: 1727681939264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d045cf6055134c38886f3faf6ec950c9
+run_name: amazing-ray-489
+run_uuid: d045cf6055134c38886f3faf6ec950c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727681931970
+status: 3
+tags: []
+user_id: oksha

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/690958120845541997
+creation_time: 1727681368185
+experiment_id: '690958120845541997'
+last_update_time: 1727681368185
+lifecycle_stage: active
+name: YOLOv8 Object Detection Experiment

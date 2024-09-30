@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85911c7e1f7e4f2c9557de6edac5b2ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85911c7e1f7e4f2c9557de6edac5b2ea
+run_name: powerful-mouse-369
+run_uuid: 85911c7e1f7e4f2c9557de6edac5b2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727687623090
+status: 1
+tags: []
+user_id: oksha
